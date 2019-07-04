@@ -1,0 +1,35 @@
+
+html {
+    background-color: black;
+}
+
+header {
+    width: 800px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+h1 {
+    color: brown;
+}
+
+p {
+    color: yellowgreen;
+}
+
+li {
+    color: red;
+}
+
+input:hover {
+    background:red
+}
+
+label{
+    color: red;
+}
+
+button:focus{
+    color: yellow
+}
